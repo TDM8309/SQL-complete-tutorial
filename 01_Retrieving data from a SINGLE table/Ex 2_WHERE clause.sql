@@ -4,7 +4,7 @@ WHERE state = 'VA';
 
 SELECT *
 FROM sql_store.customers
-WHERE state != 'VA';
+WHERE state != 'VA'; or used <>
 
 SELECT *
 FROM sql_store.customers
